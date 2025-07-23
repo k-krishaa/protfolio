@@ -13,7 +13,7 @@ import { useEffect } from 'react';
 
 
 return (
-<div className='bg-white dark:bg-black text-black dark:text-white min-h-screen flex flex-col transition-colors duration-300'>
+<div className='bg-rose-200 dark:bg-rose-900 text-rose-900 dark:text-rose-100 min-h-screen flex flex-col transition-colors duration-300'>
   <Navbar/>
   <AppRouter/>
 <Footer/>

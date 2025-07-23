@@ -35,6 +35,7 @@ const NewsApp = () => {
   };
 
   return (
+  
     <div className="min-h-screen bg-rose-300 px-4 py-8 flex flex-col items-center">
       <div className="bg-white p-6 rounded shadow w-full max-w-4xl">
         <h1 className="text-3xl font-bold text-center mb-6">📰 News App</h1>
